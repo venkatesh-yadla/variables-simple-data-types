@@ -4,7 +4,7 @@ print (colours [2])
 print (colours[-1])
 board="My pen colour is"+colours[3].title()
 print (board)
-colours=['red','blue','green','yellow
+colours=['red','blue','green','yellow']
 colours[1]='pink'
 print (colours)
 colours.append('black')
@@ -16,11 +16,12 @@ print (colours)
 popped_colour=colours.pop()
 print (colours)
 print (popped_friend)
+colours=['red','blue','green','yellow']
 colours.remove('red')
 print (colours)
 colours.sort()
 print (colours)
 colours.reverse()
 print (colours)
-len(colours)
+print(len(colours))
 
