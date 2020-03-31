@@ -1,7 +1,7 @@
 fruits=['apple','banana','grapes']
 for fruit in fruits:
     print (fruit)
-    print (fruits.title()+",is so sweet")
+    print (fruit.title()+",is so sweet")
 print ("Thank you for fruits")
 
 #Numerical Lists
@@ -22,4 +22,4 @@ print (cubes)
 
 #6th table
 for i in range(1,11)
-    print (i"*6")
+    print (i*6)
