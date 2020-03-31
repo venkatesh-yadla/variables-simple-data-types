@@ -11,8 +11,8 @@ print("dangerous,"+full_name.title())
 print("Python")
 print("\t Python")
 print("Groups:\nCSE\nECE\nEEE")
-friut_name=" Apple "
+fruit_name=" Apple "
 print(fruit_name)
-fruit_name=fruit_name.rstrip()
-fruit_name=fruit_name.lsrtip()
-fruit_name=fruit_name.strip()
+
+
+
